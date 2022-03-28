@@ -1,0 +1,39 @@
+Data Notes
+
+The New York State calculation method was first adopted for the Cohort of 2001 (Class of 2005). The cohort consists of all students who first entered 9th grade in a given school year (e.g., the Cohort of 2006 entered 9th grade in the 2006-2007 school year). Graduates are defined as those students earning either a Local or Regents diploma.
+
+Due to the COVID-19 pandemic in 2020, students received credit for a Regents Waiver. Regents Waivers were applied towards students' Regents diploma requirements but not towards the Advanced Regents diploma.
+
+In order to comply with the Family Educational Rights and Privacy Act (FERPA) regulations on public reporting of education outcomes, rows with fewer than 5 students are suppressed, and have been replaced with an "s". In addition, other rows have been replaced with an "s" when they could reveal, through addition or subtraction, the underlying numbers that have been redacted.
+
+In order to align with the School Quality Report, suppression rules for the 'Transfer School' tab differ, and rows with cohorts of 10 or fewer students are suppressed.
+
+4 Year August outcomes are available since the 2004 cohort at the citywide level and since 2005 at the borough, district, and school levels. 5 Year August outcomes are available since 2006.
+
+Charter schools are not included in NYSED's overall rate for NYC and, so, are not included here.
+
+For cohorts 2001 to 2006, District 79 was pulled out as a separate borough and district in those spreadsheets. Since 2007, D79 students are included in their geographic district and borough. School level results are shown for D1-D32 only.
+
+Prior to 2007, out of district placement students were not included in district results.
+
+Beginning with the 2011 graduation cohort, the IEP Diploma was replaced by a credential that is available only to students with severe cognitive disabilities who are eligible to take the NYSAA and have attended school for no less than 12 years, excluding Kindergarten.
+
+TASC and SACC totals are not included in the school-level file due to low cell counts.
+
+As of January 1, 2014, the GED test is no longer offered in New York State. The GED has been replaced by the TASC (Test Assessing Secondary Completion) exam which will continue to lead students to a High School Equivalency (HSE) Diploma.
+
+In order to match NYSED's reporting, there are some instances where 'Total Regents' plus 'Local Dipomas' does not equal 'Total Grads' for 2001-2005.
+
+Because citywide, district, and borough graduation cohorts include students in out of district placements, the total cohorts in these spreadsheets will not equal the total cohorts in the school-level spreadsheets.
+
+Because some students included in the cohort totals have unknown graduation outcomes in NYSED data, the sum of all outcome categories will not always equal the total cohort.
+
+NYCDOE calculates an alternative graduation rate for transfer schools. For the definition of the graduation rate, the School Quality Report Education guide will be made available here: https://infohub.nyced.org/reports/school-quality/school-quality-reports-and-resources/educator-guide-to-school-quality-guide
+
+English Language Learner (ELL) status is designated as follows on the 'ELL' tab:\n - ELL: student is ELL if they are classified as ELL as of graduation.\n - Former ELL: student is Former ELL if they were classified as ELL in the prior two school years and are no longer ELL.\n - Not ELL: student is Not ELL if they have never been classified as ELL, or if they were declassified more than two years prior.
+
+Graduation rates for Former ELLs are not reported prior to the 2005 cohort due to unavailable data.
+
+English Language Learner (ELL) status is designated as follows on the 'Ever ELL' tab:\n - Current ELL: student is Current ELL if they are classified as an ELL as of graduation.\n - Ever ELL: student is Ever ELL if they were classified as an ELL in any year prior to graduation but not in their graduation year.\n - Never ELL: student is Never ELL if they have never been identified as ELL.
+
+The "Ever ELL" tab only extends back to the 2011 cohort due to unavailable data. Additionally, graduation rates among the 5 year cohort (June and August) are not included in the Ever ELL tab for the 2011 cohort.

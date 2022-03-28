@@ -1,0 +1,25 @@
+(Grades 3 - 8)
+
+2013 - 2019
+
+Notes
+
+In 2018, NYSED rescaled the Math and ELA exams to account for a change in test administration from 3 days to 2 days. Therefore, 2018 and 2019 results can be compared to each other but cannot be compared to prior years.
+
+Starting in 2013, NYSED changed the exams to be Common Core aligned.
+
+In order to comply with regulations of the Family Educational Rights and Privacy Act (FERPA) on public reporting of education outcomes, groups with 5 or fewer tested students are suppressed with an “s”. In addition, groups with the next lowest number of tested students are suppressed when they could reveal, through addition or subtraction, the underlying numbers that have been redacted.
+
+District 75 students are included in city-level results. For 2013, District 75 students are attributed to their geographic borough. For 2014 and later, they are not included in borough-level results. For all years, District 75 students are assigned to their geographic district for district-level results. District 75 schools are not included in school-level results.
+
+Charter schools are not included. School level charter data can be found here: https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/test-results
+
+Data for Asian students include Native Hawaiian or Other Pacific Islanders. Small ethnic categories of Multi-racial and Native American are not shown due to small cell counts.
+
+Economically disadvantaged students include those identified by the State as eligible for free or reduced-price lunch or other economic assistance programs.
+
+Current English Language Learners (ELLs) are those identified as an ELL during the reported year. Ever ELLs are those identified as ELL any year prior to the reported year but not including the reported year. Never ELLs are those never reported to have received ELL services. Data disaggregated by ELL status are available starting in 2014. Data for the 7th grade Ever ELLs Math exam are available starting in 2015. Data for Ever ELLs and Never ELLs may differ from those reported by NYSED due to timing.
+
+In 2007, NYSED updated its testing policy for English Language Learners: ELLs in an English Language School System for more than one year are required to take the ELA exam. Previously, ELLs in an English Language School System for less than 3 years were exempt from taking the ELA exam.
+
+A change in State testing policy drove a decrease in eighth grade proficiency rates on the State math assessment in 2014: to reduce double testing, most students in accelerated math courses who took the Integrated Algebra Regents exam were exempted from taking the 7th or 8th grade State math assessment.
